@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkusHohle, a physicist living among life scientists : ) 
+- 👋 Hi, I’m @MarkusHohle, a physicist, lecturer and AI enthusiast : ) 
 - 👀 I’m interested in automating workflows, exploring and analyzing data, pattern formation and - of course - AI.
 - 🌱 I’m currently learning ... still alot, which is (the fun) part of my job. My clients are start-ups, the goverment, universities and big pharmaceutical companies, which is a cool mixture. 
 - 💞️ I’m looking to collaborate on: what I have mentioned above. 
